@@ -1,0 +1,63 @@
+.text-center{
+background-color:#d4f7ec;
+}
+
+#d1{
+background-color:#fd7208;
+}
+
+.image{
+background-color:yellow;
+margin:0px;
+padding:10px;
+text-align:center;
+}
+
+
+#email_btn{
+color:aqua;
+background-color:blue;
+margin:10px;
+}
+
+#email_btn:hover{
+color:red;
+background-color:yellow;
+}
+
+#pass_btn{
+color:aqua;
+background-color:blue;
+margin:10px;
+}
+
+#pass_btn:hover{
+color:red;
+background-color:yellow;
+}
+
+#submit_btn{
+text-align:right;
+color:aqua;
+background-color:blue;
+margin:10px;	
+}
+
+#submit_btn:hover{
+color:red;
+background-color:yellow;	
+}
+
+#hidden{
+	color:green;
+	text-decoration: bold;
+	display:none;
+}
+
+#display{
+	text-align:left;
+	background-color: paleturquoise;
+	border-color: black;
+}
+
+
